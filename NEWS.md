@@ -3,7 +3,7 @@
 ## What's new:
 
 * Primarily a re-release of 1.1.0 now that `matchingMarkets` is available again
-* Minor changes to documentation for `bout_mvpa` and `get_ree`
+* Minor changes (e.g., URL fixes and updates to work with latest R versions)
 * Revdep checks removed since there are currently no reverse dependencies
 
 
